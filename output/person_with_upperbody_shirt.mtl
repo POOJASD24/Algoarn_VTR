@@ -1,0 +1,4 @@
+newmtl person_mat
+map_Kd person_texture.png
+newmtl shirt_mat
+map_Kd shirt_texture.png
